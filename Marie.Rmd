@@ -1,0 +1,15 @@
+---
+title: "Marie Ramirez"
+output: html_document
+---
+
+## About me:
+* I am a 2nd year PhD student in EEB's Smith Lab.
+* I study students' science identity and how it can change over time. 
+* I am a first generation immigrant from the Philippines, and lived in San Diego prior to moving to Ithaca. 
+
+## Here are other things about me: 
+* I eat a lot. 
+* I cook sometimes. 
+* I travel all the time. 
+
