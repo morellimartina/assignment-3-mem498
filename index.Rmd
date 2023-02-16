@@ -1,0 +1,22 @@
+---
+title: "Martina's Assignment 3"
+author: "Martina Morelli"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE, fig.cap=TRUE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![This is a picture of Mt. Rainier.](https://assets.goaaa.com/image/upload/w_auto,q_auto:best,f_auto/v1655161437/Via/mount-rainier-national-monument-wildflowers-via-magazine-aaa-shutterstock_295670498.jpg)
+
+## Martina
+
+[Link to my personal GitHub](https://github.com/morellimartina)
+
+
+## Marie
+
+Marie is my collaborator.
+[Link to Marie's GitHub](https://github.com/mlramirez286)
